@@ -1,13 +1,12 @@
 {
     "type": "bundle",
     "id": "bundle--d6e84eb8-3876-43f4-ae63-463b49eda894",
-    "spec_version": "2.0",
     "objects": [
         {
             "type": "x-ibm-finding",
             "id": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
             "name": "GDP_UC1",
-            "identity_class": "finding",
+            "identity_class": "events",
             "created": "2022-12-01T20:31:30.625Z"
         },
         {
