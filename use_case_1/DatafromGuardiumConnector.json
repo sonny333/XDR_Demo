@@ -8,14 +8,14 @@
             "id": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
             "name": "Guardium",
             "identity_class": "finding",
-            "created": "2022-12-08T20:31:30.625Z"
+            "created": "2019-05-01T20:31:30.625Z"
         },
         {
             "id": "observed-data--a2490ee4-5245-4bec-a931-547d8e5b5207",
             "type": "observed-data",
             "created_by_ref": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
-            "created": "2022-12-02T07:53:17.121Z",
-            "modified": "2022-12-02T07:53:17.121Z",
+            "created": "2020-09-02T07:53:17.121Z",
+            "modified": "2020-09-02T07:53:17.121Z",
             "objects": {
                 "0": {
                     "type": "x-ibm-finding",
@@ -55,16 +55,16 @@
                     "name": "POSTGRESQL"
                 }
             },
-            "first_observed": "2022-11-31T23:46:36.000Z",
-            "last_observed": "2022-11-31T23:46:36.000Z",
+            "first_observed": "2020-08-31T23:46:36.000Z",
+            "last_observed": "2020-08-31T23:46:36.000Z",
             "number_observed": 1
         },
 {
             "id": "observed-data--8a516e14-c4ee-42a2-a7f1-54e10a5288d3",
             "type": "observed-data",
             "created_by_ref": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
-            "created": "2022-12-02T07:53:17.221Z",
-            "modified": "2022-12-02T07:53:17.221Z",
+            "created": "2020-09-02T07:53:17.221Z",
+            "modified": "2020-09-02T07:53:17.221Z",
             "objects": {
                 "0": {
                     "type": "x-guardium",
@@ -83,8 +83,8 @@
                     "value": "192.168.1.111"
                 }
             },
-            "first_observed": "2022-11-13T07:03:15.000Z",
-            "last_observed": "2022-11-13T07:03:15.000Z",
+            "first_observed": "2020-08-13T07:03:15.000Z",
+            "last_observed": "2020-08-13T07:03:15.000Z",
             "number_observed": 1
         }
    ]
