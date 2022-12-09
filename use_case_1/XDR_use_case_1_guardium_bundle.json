@@ -6,7 +6,7 @@
         {
             "type": "x-ibm-finding",
             "id": "finding--20feee85-f6f8-427c-9dc1-7fde08310491",
-            "name": "Guardium",
+            "name": "GDP_UC1",
             "identity_class": "finding",
             "created": "2022-12-01T20:31:30.625Z"
         },
